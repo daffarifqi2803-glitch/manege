@@ -1,0 +1,22 @@
+[
+    {
+        "id": "promo_1",
+        "code": "FRIDAYROSE",
+        "type": "percent",
+        "value": 40,
+        "title": "Diskon 40% Semua Mawar",
+        "desc": "Jadikan hari Jumatmu lebih romantis. Potongan langsung 40% khusus buket mawar edisi premium.",
+        "badge": "Flash Sale Tiap Jumat!",
+        "img": "img\/valen-1.jpg"
+    },
+    {
+        "id": "promo_2",
+        "code": "STUDENTGIFT",
+        "type": "flat",
+        "value": 50000,
+        "title": "Gratis Kartu & Boneka",
+        "desc": "Tunjukkan kartu pelajar saat memesan Buket Kelulusan dan dapatkan super bonus boneka wisuda eksklusif!",
+        "badge": "Paket Pelajar",
+        "img": "img\/graduate-2.jpg"
+    }
+]

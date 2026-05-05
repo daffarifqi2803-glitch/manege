@@ -1,0 +1,298 @@
+[
+    {
+        "session_id": "0ea7f9913ca2170e",
+        "user_name": "Guest 0ea7",
+        "last_activity": "2026-05-05 14:28:06",
+        "unread_admin": 0,
+        "unread_user": 0,
+        "messages": [
+            {
+                "sender": "admin",
+                "message": "hi ka",
+                "timestamp": "2026-04-29 07:43:05"
+            },
+            {
+                "sender": "admin",
+                "message": "halo",
+                "timestamp": "2026-04-29 07:43:18"
+            },
+            {
+                "sender": "admin",
+                "message": "aku mau nanya dong",
+                "timestamp": "2026-04-29 07:43:24"
+            },
+            {
+                "sender": "admin",
+                "message": "boleh",
+                "timestamp": "2026-04-29 07:43:28"
+            },
+            {
+                "sender": "admin",
+                "message": "nanya apa",
+                "timestamp": "2026-04-29 07:43:31"
+            },
+            {
+                "sender": "admin",
+                "message": "jelek u",
+                "timestamp": "2026-04-29 09:28:39"
+            },
+            {
+                "sender": "admin",
+                "message": "masa si",
+                "timestamp": "2026-04-29 09:28:45"
+            },
+            {
+                "sender": "admin",
+                "message": "hao",
+                "timestamp": "2026-04-29 09:37:04"
+            },
+            {
+                "sender": "admin",
+                "message": "sas",
+                "timestamp": "2026-04-29 09:37:12"
+            },
+            {
+                "sender": "admin",
+                "message": "da",
+                "timestamp": "2026-04-29 09:37:27"
+            },
+            {
+                "sender": "admin",
+                "message": "hai",
+                "timestamp": "2026-04-29 13:29:37"
+            },
+            {
+                "sender": "admin",
+                "message": "gdgd",
+                "timestamp": "2026-05-02 12:57:57"
+            },
+            {
+                "sender": "user",
+                "message": "sa",
+                "timestamp": "2026-05-05 14:27:52"
+            },
+            {
+                "sender": "user",
+                "message": "salo",
+                "timestamp": "2026-05-05 14:28:06"
+            }
+        ]
+    },
+    {
+        "session_id": "3",
+        "user_name": "putik",
+        "last_activity": "2026-05-05 14:34:38",
+        "unread_admin": 0,
+        "unread_user": 1,
+        "messages": [
+            {
+                "sender": "user",
+                "message": "hai",
+                "timestamp": "2026-05-05 14:23:50"
+            },
+            {
+                "sender": "admin",
+                "message": "halo",
+                "timestamp": "2026-05-05 14:27:01"
+            },
+            {
+                "sender": "user",
+                "message": "sa",
+                "timestamp": "2026-05-05 14:28:21"
+            },
+            {
+                "sender": "user",
+                "message": "pu",
+                "timestamp": "2026-05-05 14:28:50"
+            },
+            {
+                "sender": "admin",
+                "message": "ha",
+                "timestamp": "2026-05-05 14:34:38"
+            }
+        ]
+    },
+    {
+        "session_id": "2",
+        "user_name": "sasa",
+        "last_activity": "2026-05-05 14:49:21",
+        "unread_admin": 0,
+        "unread_user": 0,
+        "messages": [
+            {
+                "sender": "user",
+                "message": "halo",
+                "timestamp": "2026-05-05 14:27:43"
+            },
+            {
+                "sender": "user",
+                "message": "sa",
+                "timestamp": "2026-05-05 14:27:45"
+            },
+            {
+                "sender": "user",
+                "message": "ka",
+                "timestamp": "2026-05-05 14:28:16"
+            },
+            {
+                "sender": "user",
+                "message": "ga",
+                "timestamp": "2026-05-05 14:28:36"
+            },
+            {
+                "sender": "user",
+                "message": "hai",
+                "timestamp": "2026-05-05 14:29:01"
+            },
+            {
+                "sender": "user",
+                "message": "papapap",
+                "timestamp": "2026-05-05 14:31:14"
+            },
+            {
+                "sender": "admin",
+                "message": "halo ka",
+                "timestamp": "2026-05-05 14:32:08"
+            },
+            {
+                "sender": "admin",
+                "message": "apa",
+                "timestamp": "2026-05-05 14:34:17"
+            },
+            {
+                "sender": "admin",
+                "message": "ga",
+                "timestamp": "2026-05-05 14:34:42"
+            },
+            {
+                "sender": "admin",
+                "message": "ha",
+                "timestamp": "2026-05-05 14:34:46"
+            },
+            {
+                "sender": "user",
+                "message": "halo",
+                "timestamp": "2026-05-05 14:47:07"
+            },
+            {
+                "sender": "admin",
+                "message": "aku",
+                "timestamp": "2026-05-05 14:47:43"
+            },
+            {
+                "sender": "admin",
+                "message": "alo ka ada yang ingin saya bantu",
+                "timestamp": "2026-05-05 14:49:21"
+            }
+        ]
+    },
+    {
+        "session_id": "10ce3f1469e18f4b",
+        "user_name": "Guest 10ce",
+        "last_activity": "2026-05-05 14:46:33",
+        "unread_admin": 0,
+        "unread_user": 0,
+        "messages": [
+            {
+                "sender": "user",
+                "message": "hai ka",
+                "timestamp": "2026-05-05 14:46:28"
+            },
+            {
+                "sender": "user",
+                "message": "hai ka",
+                "timestamp": "2026-05-05 14:46:33"
+            }
+        ]
+    },
+    {
+        "session_id": "7",
+        "user_name": "gatau",
+        "last_activity": "2026-05-05 14:50:31",
+        "unread_admin": 0,
+        "unread_user": 0,
+        "messages": [
+            {
+                "sender": "user",
+                "message": "alo",
+                "timestamp": "2026-05-05 14:50:31"
+            }
+        ]
+    },
+    {
+        "session_id": "9",
+        "user_name": "Administrator",
+        "last_activity": "2026-05-05 15:03:09",
+        "unread_admin": 0,
+        "unread_user": 2,
+        "messages": [
+            {
+                "sender": "admin",
+                "message": "hai ka",
+                "timestamp": "2026-05-05 15:02:51"
+            },
+            {
+                "sender": "admin",
+                "message": "alo",
+                "timestamp": "2026-05-05 15:03:09"
+            }
+        ]
+    },
+    {
+        "session_id": "b0638bae5350df2a",
+        "user_name": "Administrator",
+        "last_activity": "2026-05-05 15:40:42",
+        "unread_admin": 0,
+        "unread_user": 2,
+        "messages": [
+            {
+                "sender": "admin",
+                "message": "ga",
+                "timestamp": "2026-05-05 15:40:36"
+            },
+            {
+                "sender": "admin",
+                "message": "hi",
+                "timestamp": "2026-05-05 15:40:42"
+            }
+        ]
+    },
+    {
+        "session_id": "8370bc7b961be0b3",
+        "user_name": "Guest 8370",
+        "last_activity": "2026-05-05 15:47:25",
+        "unread_admin": 0,
+        "unread_user": 1,
+        "messages": [
+            {
+                "sender": "user",
+                "message": "halo",
+                "timestamp": "2026-05-05 15:46:42"
+            },
+            {
+                "sender": "admin",
+                "message": "alo ada",
+                "timestamp": "2026-05-05 15:47:25"
+            }
+        ]
+    },
+    {
+        "session_id": "8",
+        "user_name": "aku malang",
+        "last_activity": "2026-05-05 15:47:39",
+        "unread_admin": 0,
+        "unread_user": 1,
+        "messages": [
+            {
+                "sender": "user",
+                "message": "hai",
+                "timestamp": "2026-05-05 15:47:04"
+            },
+            {
+                "sender": "admin",
+                "message": "hai",
+                "timestamp": "2026-05-05 15:47:39"
+            }
+        ]
+    }
+]

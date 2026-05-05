@@ -1,0 +1,187 @@
+{
+    "Anniversary": [
+        {
+            "id": "anniversary_1",
+            "img": "img\/aniversry-1.jpg",
+            "name": "Rustic Romance",
+            "price": 1000,
+            "desc": "Perpaduan mawar merah dan dedaunan rustic, simbol romansa yang tak lekang oleh waktu."
+        },
+        {
+            "id": "anniversary_2",
+            "img": "img\/aniversry-2.jpg",
+            "name": "Eternal Love",
+            "price": 400000,
+            "desc": "Buket mewah dengan lili dan mawar pink, sempurna untuk merayakan hari jadian Anda."
+        },
+        {
+            "id": "anniversary_3",
+            "img": "img\/aniversry-3.jpg",
+            "name": "Classic Elegance",
+            "price": 300000,
+            "desc": "Rangkaian mawar putih klasik untuk menunjukkan kasih sayang yang tulus dan murni."
+        },
+        {
+            "id": "anniversary_4",
+            "img": "img\/aniversry-4.jpg",
+            "name": "Sweet Memories",
+            "price": 250000,
+            "desc": "Buket pastel manis untuk mengenang setiap memori indah bersama pasangan tercinta."
+        },
+        {
+            "id": "anniversary_5",
+            "img": "img\/aniversry-5.jpg",
+            "name": "Golden Moments",
+            "price": 500000,
+            "desc": "Kombinasi bunga premium dengan sentuhan kemewahan untuk momen istimewa Anda."
+        }
+    ],
+    "Graduate": [
+        {
+            "id": "graduate_1",
+            "img": "img\/graduate-1.jpg",
+            "name": "Bright Future",
+            "price": 200000,
+            "desc": "Buket bunga matahari cerah sebagai simbol harapan cerah untuk masa depan gemilang."
+        },
+        {
+            "id": "graduate_2",
+            "img": "img\/graduate-2.jpg",
+            "name": "Success Bloom",
+            "price": 250000,
+            "desc": "Rangkaian penuh warna meriah untuk merayakan langkah baru setelah sukses lulus."
+        },
+        {
+            "id": "graduate_3",
+            "img": "img\/graduate-3.png",
+            "name": "Congratulations Box",
+            "price": 300000,
+            "desc": "Bloom box istimewa eksklusif dengan sentuhan pita, sangat pas dan elegan dibawa."
+        },
+        {
+            "id": "graduate_4",
+            "img": "img\/graduate-4.png",
+            "name": "Scholar\u2019s Pride",
+            "price": 150000,
+            "desc": "Buket mawar estetis, pas sebagai bentuk ucapan selamat tulus di hari wisuda yang dinanti."
+        },
+        {
+            "id": "graduate_5",
+            "img": "img\/graduate-5.jpg",
+            "name": "Graduation Joy",
+            "price": 280000,
+            "desc": "Kombinasi bunga dan cokelat premium yang legit, perayaan manis untuk sebuah pencapaian."
+        }
+    ],
+    "Valentine": [
+        {
+            "id": "valentine_1",
+            "img": "img\/valen-1.jpg",
+            "name": "Red Velvet Bloom",
+            "price": 450000,
+            "desc": "Mawar merah merona siap menyampaikan pesan cinta mendalam di hari kasih sayang."
+        },
+        {
+            "id": "valentine_2",
+            "img": "img\/valen-2.png",
+            "name": "Pink Promises",
+            "price": 350000,
+            "desc": "Nuansa kemerahan memikat untuk menjanjikan cinta setia kepada dia yang paling spesial."
+        },
+        {
+            "id": "valentine_3",
+            "img": "img\/valen-3.png",
+            "name": "Sweetheart Bouquet",
+            "price": 320000,
+            "desc": "Buket nuansa super manis yang merepresentasikan kelembutan hati dan cinta tulus."
+        },
+        {
+            "id": "valentine_4",
+            "img": "img\/valen-4.jpg",
+            "name": "Deep Affection",
+            "price": 500000,
+            "desc": "Koleksi edisi valentine langka dengan tambahan detail manis cinta dan pesona eksklusif."
+        },
+        {
+            "id": "valentine_5",
+            "img": "img\/valen-5.jpg",
+            "name": "Love Blossoms",
+            "price": 270000,
+            "desc": "Buket memukau bertema valentine merah muda, bunga unggulan yang dihias sempurna."
+        }
+    ],
+    "Birthday": [
+        {
+            "id": "birthday_1",
+            "img": "img\/birthday-1.jpg",
+            "name": "Joyful Day",
+            "price": 220000,
+            "desc": "Bunga serba riang dengan rona oranye berjiwa muda untuk merayakan hari ulang tahun."
+        },
+        {
+            "id": "birthday_2",
+            "img": "img\/birthday-2.jpg",
+            "name": "Party Vibes",
+            "price": 180000,
+            "desc": "Suvenir mungil mekar penuh warna-warni demi memastikan senyum manis bersemi."
+        },
+        {
+            "id": "birthday_3",
+            "img": "img\/birthday-3.jpg",
+            "name": "Surprise Box",
+            "price": 300000,
+            "desc": "Kotak bunga kejutan tiada dua, dijamin membuat harinya berlalu sebagai memori paling indah."
+        },
+        {
+            "id": "birthday_4",
+            "img": "img\/birthday-4.jpg",
+            "name": "Happy Cheers",
+            "price": 250000,
+            "desc": "Buket bersemangat senada sebagai persembahan meriah dan termanis dari orang tersayang."
+        },
+        {
+            "id": "birthday_5",
+            "img": "img\/birthday-5.jpg",
+            "name": "Birthday Shine",
+            "price": 290000,
+            "desc": "Bunga cerah bermekaran segar merona, hadiah elok untuk membuat segalanya spesial istimewa."
+        }
+    ],
+    "Wedding": [
+        {
+            "id": "wedding_1",
+            "img": "img\/wedding-1.jpg",
+            "name": "Pure White Love",
+            "price": 600000,
+            "desc": "Buket pengantin khusus yang menyorot kemilau cahaya kasih dan kesucian murni abadi."
+        },
+        {
+            "id": "wedding_2",
+            "img": "img\/wedding-2.jpg",
+            "name": "Bridal Elegance",
+            "price": 850000,
+            "desc": "Desain megah kekinian berhias ornamen lili nan elegan serta helaian anggrek anggun memesona."
+        },
+        {
+            "id": "wedding_3",
+            "img": "img\/wedding-3.jpg",
+            "name": "Everlasting Vows",
+            "price": 700000,
+            "desc": "Tanda suci dan elegan akan sumpah janji terikat, yang begitu cantik terpegang penuh hangat."
+        },
+        {
+            "id": "wedding_4",
+            "img": "img\/wedding-4.jpg",
+            "name": "Wedding Bliss",
+            "price": 500000,
+            "desc": "Buket gembira penuh kemewahan di pelaminan perayaan pesta cinta tak terpisahkan selamanya."
+        },
+        {
+            "id": "wedding_5",
+            "img": "img\/service-4.jpg",
+            "name": "Sacred Grace",
+            "price": 550000,
+            "desc": "Corak rona suci memadukan kedamaian dan kesejukan rasa selagi iringan menuju altar."
+        }
+    ]
+}

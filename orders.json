@@ -1,0 +1,56 @@
+[
+    {
+        "order_id": "ORD-2026-001",
+        "user_email": "name@example.com",
+        "items": [
+            {
+                "name": "Rustic Romance",
+                "price": 450000,
+                "qty": 1,
+                "img": "img/aniversry-1.jpg"
+            }
+        ],
+        "total": 450000,
+        "date": "2026-04-10 14:30:00",
+        "status": "Selesai",
+        "payment_status": "Lunas",
+        "payment_method": "QRIS",
+        "tracking_no": "POSEIFY-TRK-001"
+    },
+    {
+        "order_id": "ORD-2026-005",
+        "user_email": "name@example.com",
+        "items": [
+            {
+                "name": "Bright Future",
+                "price": 200000,
+                "qty": 2,
+                "img": "img/graduate-1.jpg"
+            }
+        ],
+        "total": 400000,
+        "date": "2026-04-20 09:15:00",
+        "status": "Dikirim",
+        "payment_status": "Lunas",
+        "payment_method": "Transfer Bank",
+        "tracking_no": "POSEIFY-TRK-005"
+    },
+    {
+        "order_id": "ORD-2026-012",
+        "user_email": "name@example.com",
+        "items": [
+            {
+                "name": "Red Velvet Bloom",
+                "price": 450000,
+                "qty": 1,
+                "img": "img/valen-1.jpg"
+            }
+        ],
+        "total": 450000,
+        "date": "2026-04-25 18:45:00",
+        "status": "Diproses",
+        "payment_status": "Lunas",
+        "payment_method": "QRIS",
+        "tracking_no": "Menunggu kurir..."
+    }
+]

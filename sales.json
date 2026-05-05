@@ -1,0 +1,32 @@
+[
+    {
+        "month": "Okt",
+        "revenue": 15000000,
+        "orders": 45
+    },
+    {
+        "month": "Nov",
+        "revenue": 18500000,
+        "orders": 52
+    },
+    {
+        "month": "Des",
+        "revenue": 14200000,
+        "orders": 38
+    },
+    {
+        "month": "Jan",
+        "revenue": 21000000,
+        "orders": 65
+    },
+    {
+        "month": "Feb",
+        "revenue": 25000000,
+        "orders": 72
+    },
+    {
+        "month": "Mar",
+        "revenue": 22500000,
+        "orders": 70
+    }
+]

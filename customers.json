@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "Budi Santoso",
+        "email": "budi.s@example.com",
+        "phone": "08123456701",
+        "total_orders": 3,
+        "total_spent": 1250000,
+        "joined": "2025-11-12",
+        "status": "online",
+        "last_active": "2026-04-26 12:45:00"
+    },
+    {
+        "id": 2,
+        "name": "Rina Wijaya",
+        "email": "rina.w@example.com",
+        "phone": "08123456702",
+        "total_orders": 1,
+        "total_spent": 450000,
+        "joined": "2025-12-05",
+        "status": "offline",
+        "last_active": "2026-04-25 18:30:00"
+    },
+    {
+        "id": 3,
+        "name": "Andika Pratama",
+        "email": "andika.p@example.com",
+        "phone": "08123456703",
+        "total_orders": 5,
+        "total_spent": 2100000,
+        "joined": "2026-01-18",
+        "status": "online",
+        "last_active": "2026-04-26 12:50:00"
+    },
+    {
+        "id": 4,
+        "name": "Siti Aminah",
+        "email": "siti.a@example.com",
+        "phone": "08123456704",
+        "total_orders": 2,
+        "total_spent": 890000,
+        "joined": "2026-02-14",
+        "status": "offline",
+        "last_active": "2026-04-26 09:15:00"
+    },
+    {
+        "id": 5,
+        "name": "Kevin Surya",
+        "email": "kevin.s@example.com",
+        "phone": "08123456705",
+        "total_orders": 8,
+        "total_spent": 4200000,
+        "joined": "2026-03-01",
+        "status": "online",
+        "last_active": "2026-04-26 12:53:00"
+    },
+    {
+        "id": 6,
+        "name": "ddd",
+        "email": "jaka@gmail.com",
+        "phone": "-",
+        "total_orders": 0,
+        "total_spent": 0,
+        "joined": "2026-04-26",
+        "status": "online",
+        "last_active": "2026-04-26 08:02:06"
+    },
+    {
+        "id": 7,
+        "name": "Updated Test User",
+        "email": "test@example.com",
+        "phone": "0899999999",
+        "total_orders": 0,
+        "total_spent": 0,
+        "joined": "2026-05-01",
+        "status": "online",
+        "last_active": "2026-05-01 09:28:53"
+    },
+    {
+        "id": 8,
+        "name": "gatau",
+        "email": "janda@gmail.com",
+        "phone": "-",
+        "total_orders": 0,
+        "total_spent": 0,
+        "joined": "2026-05-05",
+        "status": "online",
+        "last_active": "2026-05-05 14:50:02"
+    },
+    {
+        "id": 9,
+        "name": "aku malang",
+        "email": "apalah@gmail.com",
+        "phone": "-",
+        "total_orders": 0,
+        "total_spent": 0,
+        "joined": "2026-05-05",
+        "status": "online",
+        "last_active": "2026-05-05 14:52:48"
+    },
+    {
+        "id": 10,
+        "name": "sasasasa",
+        "email": "apalahsaaa@gmail.com",
+        "phone": "-",
+        "total_orders": 0,
+        "total_spent": 0,
+        "joined": "2026-05-05",
+        "status": "online",
+        "last_active": "2026-05-05 14:59:04"
+    }
+]
