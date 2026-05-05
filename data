@@ -1,0 +1,708 @@
+[
+    {
+        "id": "promo_1",
+        "code": "FRIDAYROSE",
+        "type": "percent",
+        "value": 40,
+        "title": "Diskon 40% Semua Mawar",
+        "desc": "Jadikan hari Jumatmu lebih romantis. Potongan langsung 40% khusus buket mawar edisi premium.",
+        "badge": "Flash Sale Tiap Jumat!",
+        "img": "img\/valen-1.jpg"
+    },
+    {
+        "id": "promo_2",
+        "code": "STUDENTGIFT",
+        "type": "flat",
+        "value": 50000,
+        "title": "Gratis Kartu & Boneka",
+        "desc": "Tunjukkan kartu pelajar saat memesan Buket Kelulusan dan dapatkan super bonus boneka wisuda eksklusif!",
+        "badge": "Paket Pelajar",
+        "img": "img\/graduate-2.jpg"
+    }
+]
+[
+    {
+        "month": "Okt",
+        "revenue": 15000000,
+        "orders": 45
+    },
+    {
+        "month": "Nov",
+        "revenue": 18500000,
+        "orders": 52
+    },
+    {
+        "month": "Des",
+        "revenue": 14200000,
+        "orders": 38
+    },
+    {
+        "month": "Jan",
+        "revenue": 21000000,
+        "orders": 65
+    },
+    {
+        "month": "Feb",
+        "revenue": 25000000,
+        "orders": 72
+    },
+    {
+        "month": "Mar",
+        "revenue": 22500000,
+        "orders": 70
+    }
+]
+[
+    {
+        "session_id": "0ea7f9913ca2170e",
+        "user_name": "Guest 0ea7",
+        "last_activity": "2026-05-05 14:28:06",
+        "unread_admin": 0,
+        "unread_user": 0,
+        "messages": [
+            {
+                "sender": "admin",
+                "message": "hi ka",
+                "timestamp": "2026-04-29 07:43:05"
+            },
+            {
+                "sender": "admin",
+                "message": "halo",
+                "timestamp": "2026-04-29 07:43:18"
+            },
+            {
+                "sender": "admin",
+                "message": "aku mau nanya dong",
+                "timestamp": "2026-04-29 07:43:24"
+            },
+            {
+                "sender": "admin",
+                "message": "boleh",
+                "timestamp": "2026-04-29 07:43:28"
+            },
+            {
+                "sender": "admin",
+                "message": "nanya apa",
+                "timestamp": "2026-04-29 07:43:31"
+            },
+            {
+                "sender": "admin",
+                "message": "jelek u",
+                "timestamp": "2026-04-29 09:28:39"
+            },
+            {
+                "sender": "admin",
+                "message": "masa si",
+                "timestamp": "2026-04-29 09:28:45"
+            },
+            {
+                "sender": "admin",
+                "message": "hao",
+                "timestamp": "2026-04-29 09:37:04"
+            },
+            {
+                "sender": "admin",
+                "message": "sas",
+                "timestamp": "2026-04-29 09:37:12"
+            },
+            {
+                "sender": "admin",
+                "message": "da",
+                "timestamp": "2026-04-29 09:37:27"
+            },
+            {
+                "sender": "admin",
+                "message": "hai",
+                "timestamp": "2026-04-29 13:29:37"
+            },
+            {
+                "sender": "admin",
+                "message": "gdgd",
+                "timestamp": "2026-05-02 12:57:57"
+            },
+            {
+                "sender": "user",
+                "message": "sa",
+                "timestamp": "2026-05-05 14:27:52"
+            },
+            {
+                "sender": "user",
+                "message": "salo",
+                "timestamp": "2026-05-05 14:28:06"
+            }
+        ]
+    },
+    {
+        "session_id": "3",
+        "user_name": "putik",
+        "last_activity": "2026-05-05 14:34:38",
+        "unread_admin": 0,
+        "unread_user": 1,
+        "messages": [
+            {
+                "sender": "user",
+                "message": "hai",
+                "timestamp": "2026-05-05 14:23:50"
+            },
+            {
+                "sender": "admin",
+                "message": "halo",
+                "timestamp": "2026-05-05 14:27:01"
+            },
+            {
+                "sender": "user",
+                "message": "sa",
+                "timestamp": "2026-05-05 14:28:21"
+            },
+            {
+                "sender": "user",
+                "message": "pu",
+                "timestamp": "2026-05-05 14:28:50"
+            },
+            {
+                "sender": "admin",
+                "message": "ha",
+                "timestamp": "2026-05-05 14:34:38"
+            }
+        ]
+    },
+    {
+        "session_id": "2",
+        "user_name": "sasa",
+        "last_activity": "2026-05-05 14:49:21",
+        "unread_admin": 0,
+        "unread_user": 0,
+        "messages": [
+            {
+                "sender": "user",
+                "message": "halo",
+                "timestamp": "2026-05-05 14:27:43"
+            },
+            {
+                "sender": "user",
+                "message": "sa",
+                "timestamp": "2026-05-05 14:27:45"
+            },
+            {
+                "sender": "user",
+                "message": "ka",
+                "timestamp": "2026-05-05 14:28:16"
+            },
+            {
+                "sender": "user",
+                "message": "ga",
+                "timestamp": "2026-05-05 14:28:36"
+            },
+            {
+                "sender": "user",
+                "message": "hai",
+                "timestamp": "2026-05-05 14:29:01"
+            },
+            {
+                "sender": "user",
+                "message": "papapap",
+                "timestamp": "2026-05-05 14:31:14"
+            },
+            {
+                "sender": "admin",
+                "message": "halo ka",
+                "timestamp": "2026-05-05 14:32:08"
+            },
+            {
+                "sender": "admin",
+                "message": "apa",
+                "timestamp": "2026-05-05 14:34:17"
+            },
+            {
+                "sender": "admin",
+                "message": "ga",
+                "timestamp": "2026-05-05 14:34:42"
+            },
+            {
+                "sender": "admin",
+                "message": "ha",
+                "timestamp": "2026-05-05 14:34:46"
+            },
+            {
+                "sender": "user",
+                "message": "halo",
+                "timestamp": "2026-05-05 14:47:07"
+            },
+            {
+                "sender": "admin",
+                "message": "aku",
+                "timestamp": "2026-05-05 14:47:43"
+            },
+            {
+                "sender": "admin",
+                "message": "alo ka ada yang ingin saya bantu",
+                "timestamp": "2026-05-05 14:49:21"
+            }
+        ]
+    },
+    {
+        "session_id": "10ce3f1469e18f4b",
+        "user_name": "Guest 10ce",
+        "last_activity": "2026-05-05 14:46:33",
+        "unread_admin": 0,
+        "unread_user": 0,
+        "messages": [
+            {
+                "sender": "user",
+                "message": "hai ka",
+                "timestamp": "2026-05-05 14:46:28"
+            },
+            {
+                "sender": "user",
+                "message": "hai ka",
+                "timestamp": "2026-05-05 14:46:33"
+            }
+        ]
+    },
+    {
+        "session_id": "7",
+        "user_name": "gatau",
+        "last_activity": "2026-05-05 14:50:31",
+        "unread_admin": 0,
+        "unread_user": 0,
+        "messages": [
+            {
+                "sender": "user",
+                "message": "alo",
+                "timestamp": "2026-05-05 14:50:31"
+            }
+        ]
+    },
+    {
+        "session_id": "9",
+        "user_name": "Administrator",
+        "last_activity": "2026-05-05 15:03:09",
+        "unread_admin": 0,
+        "unread_user": 2,
+        "messages": [
+            {
+                "sender": "admin",
+                "message": "hai ka",
+                "timestamp": "2026-05-05 15:02:51"
+            },
+            {
+                "sender": "admin",
+                "message": "alo",
+                "timestamp": "2026-05-05 15:03:09"
+            }
+        ]
+    },
+    {
+        "session_id": "b0638bae5350df2a",
+        "user_name": "Administrator",
+        "last_activity": "2026-05-05 15:40:42",
+        "unread_admin": 0,
+        "unread_user": 2,
+        "messages": [
+            {
+                "sender": "admin",
+                "message": "ga",
+                "timestamp": "2026-05-05 15:40:36"
+            },
+            {
+                "sender": "admin",
+                "message": "hi",
+                "timestamp": "2026-05-05 15:40:42"
+            }
+        ]
+    },
+    {
+        "session_id": "8370bc7b961be0b3",
+        "user_name": "Guest 8370",
+        "last_activity": "2026-05-05 15:47:25",
+        "unread_admin": 0,
+        "unread_user": 1,
+        "messages": [
+            {
+                "sender": "user",
+                "message": "halo",
+                "timestamp": "2026-05-05 15:46:42"
+            },
+            {
+                "sender": "admin",
+                "message": "alo ada",
+                "timestamp": "2026-05-05 15:47:25"
+            }
+        ]
+    },
+    {
+        "session_id": "8",
+        "user_name": "aku malang",
+        "last_activity": "2026-05-05 15:47:39",
+        "unread_admin": 0,
+        "unread_user": 1,
+        "messages": [
+            {
+                "sender": "user",
+                "message": "hai",
+                "timestamp": "2026-05-05 15:47:04"
+            },
+            {
+                "sender": "admin",
+                "message": "hai",
+                "timestamp": "2026-05-05 15:47:39"
+            }
+        ]
+    }
+]
+[
+    {
+        "id": 1,
+        "name": "Budi Santoso",
+        "email": "budi.s@example.com",
+        "phone": "08123456701",
+        "total_orders": 3,
+        "total_spent": 1250000,
+        "joined": "2025-11-12",
+        "status": "online",
+        "last_active": "2026-04-26 12:45:00"
+    },
+    {
+        "id": 2,
+        "name": "Rina Wijaya",
+        "email": "rina.w@example.com",
+        "phone": "08123456702",
+        "total_orders": 1,
+        "total_spent": 450000,
+        "joined": "2025-12-05",
+        "status": "offline",
+        "last_active": "2026-04-25 18:30:00"
+    },
+    {
+        "id": 3,
+        "name": "Andika Pratama",
+        "email": "andika.p@example.com",
+        "phone": "08123456703",
+        "total_orders": 5,
+        "total_spent": 2100000,
+        "joined": "2026-01-18",
+        "status": "online",
+        "last_active": "2026-04-26 12:50:00"
+    },
+    {
+        "id": 4,
+        "name": "Siti Aminah",
+        "email": "siti.a@example.com",
+        "phone": "08123456704",
+        "total_orders": 2,
+        "total_spent": 890000,
+        "joined": "2026-02-14",
+        "status": "offline",
+        "last_active": "2026-04-26 09:15:00"
+    },
+    {
+        "id": 5,
+        "name": "Kevin Surya",
+        "email": "kevin.s@example.com",
+        "phone": "08123456705",
+        "total_orders": 8,
+        "total_spent": 4200000,
+        "joined": "2026-03-01",
+        "status": "online",
+        "last_active": "2026-04-26 12:53:00"
+    },
+    {
+        "id": 6,
+        "name": "ddd",
+        "email": "jaka@gmail.com",
+        "phone": "-",
+        "total_orders": 0,
+        "total_spent": 0,
+        "joined": "2026-04-26",
+        "status": "online",
+        "last_active": "2026-04-26 08:02:06"
+    },
+    {
+        "id": 7,
+        "name": "Updated Test User",
+        "email": "test@example.com",
+        "phone": "0899999999",
+        "total_orders": 0,
+        "total_spent": 0,
+        "joined": "2026-05-01",
+        "status": "online",
+        "last_active": "2026-05-01 09:28:53"
+    },
+    {
+        "id": 8,
+        "name": "gatau",
+        "email": "janda@gmail.com",
+        "phone": "-",
+        "total_orders": 0,
+        "total_spent": 0,
+        "joined": "2026-05-05",
+        "status": "online",
+        "last_active": "2026-05-05 14:50:02"
+    },
+    {
+        "id": 9,
+        "name": "aku malang",
+        "email": "apalah@gmail.com",
+        "phone": "-",
+        "total_orders": 0,
+        "total_spent": 0,
+        "joined": "2026-05-05",
+        "status": "online",
+        "last_active": "2026-05-05 14:52:48"
+    },
+    {
+        "id": 10,
+        "name": "sasasasa",
+        "email": "apalahsaaa@gmail.com",
+        "phone": "-",
+        "total_orders": 0,
+        "total_spent": 0,
+        "joined": "2026-05-05",
+        "status": "online",
+        "last_active": "2026-05-05 14:59:04"
+    }
+]
+[
+    {
+        "order_id": "ORD-2026-001",
+        "user_email": "name@example.com",
+        "items": [
+            {
+                "name": "Rustic Romance",
+                "price": 450000,
+                "qty": 1,
+                "img": "img/aniversry-1.jpg"
+            }
+        ],
+        "total": 450000,
+        "date": "2026-04-10 14:30:00",
+        "status": "Selesai",
+        "payment_status": "Lunas",
+        "payment_method": "QRIS",
+        "tracking_no": "POSEIFY-TRK-001"
+    },
+    {
+        "order_id": "ORD-2026-005",
+        "user_email": "name@example.com",
+        "items": [
+            {
+                "name": "Bright Future",
+                "price": 200000,
+                "qty": 2,
+                "img": "img/graduate-1.jpg"
+            }
+        ],
+        "total": 400000,
+        "date": "2026-04-20 09:15:00",
+        "status": "Dikirim",
+        "payment_status": "Lunas",
+        "payment_method": "Transfer Bank",
+        "tracking_no": "POSEIFY-TRK-005"
+    },
+    {
+        "order_id": "ORD-2026-012",
+        "user_email": "name@example.com",
+        "items": [
+            {
+                "name": "Red Velvet Bloom",
+                "price": 450000,
+                "qty": 1,
+                "img": "img/valen-1.jpg"
+            }
+        ],
+        "total": 450000,
+        "date": "2026-04-25 18:45:00",
+        "status": "Diproses",
+        "payment_status": "Lunas",
+        "payment_method": "QRIS",
+        "tracking_no": "Menunggu kurir..."
+    }
+]
+
+{
+    "Anniversary": [
+        {
+            "id": "anniversary_1",
+            "img": "img\/aniversry-1.jpg",
+            "name": "Rustic Romance",
+            "price": 1000,
+            "desc": "Perpaduan mawar merah dan dedaunan rustic, simbol romansa yang tak lekang oleh waktu."
+        },
+        {
+            "id": "anniversary_2",
+            "img": "img\/aniversry-2.jpg",
+            "name": "Eternal Love",
+            "price": 400000,
+            "desc": "Buket mewah dengan lili dan mawar pink, sempurna untuk merayakan hari jadian Anda."
+        },
+        {
+            "id": "anniversary_3",
+            "img": "img\/aniversry-3.jpg",
+            "name": "Classic Elegance",
+            "price": 300000,
+            "desc": "Rangkaian mawar putih klasik untuk menunjukkan kasih sayang yang tulus dan murni."
+        },
+        {
+            "id": "anniversary_4",
+            "img": "img\/aniversry-4.jpg",
+            "name": "Sweet Memories",
+            "price": 250000,
+            "desc": "Buket pastel manis untuk mengenang setiap memori indah bersama pasangan tercinta."
+        },
+        {
+            "id": "anniversary_5",
+            "img": "img\/aniversry-5.jpg",
+            "name": "Golden Moments",
+            "price": 500000,
+            "desc": "Kombinasi bunga premium dengan sentuhan kemewahan untuk momen istimewa Anda."
+        }
+    ],
+    "Graduate": [
+        {
+            "id": "graduate_1",
+            "img": "img\/graduate-1.jpg",
+            "name": "Bright Future",
+            "price": 200000,
+            "desc": "Buket bunga matahari cerah sebagai simbol harapan cerah untuk masa depan gemilang."
+        },
+        {
+            "id": "graduate_2",
+            "img": "img\/graduate-2.jpg",
+            "name": "Success Bloom",
+            "price": 250000,
+            "desc": "Rangkaian penuh warna meriah untuk merayakan langkah baru setelah sukses lulus."
+        },
+        {
+            "id": "graduate_3",
+            "img": "img\/graduate-3.png",
+            "name": "Congratulations Box",
+            "price": 300000,
+            "desc": "Bloom box istimewa eksklusif dengan sentuhan pita, sangat pas dan elegan dibawa."
+        },
+        {
+            "id": "graduate_4",
+            "img": "img\/graduate-4.png",
+            "name": "Scholar\u2019s Pride",
+            "price": 150000,
+            "desc": "Buket mawar estetis, pas sebagai bentuk ucapan selamat tulus di hari wisuda yang dinanti."
+        },
+        {
+            "id": "graduate_5",
+            "img": "img\/graduate-5.jpg",
+            "name": "Graduation Joy",
+            "price": 280000,
+            "desc": "Kombinasi bunga dan cokelat premium yang legit, perayaan manis untuk sebuah pencapaian."
+        }
+    ],
+    "Valentine": [
+        {
+            "id": "valentine_1",
+            "img": "img\/valen-1.jpg",
+            "name": "Red Velvet Bloom",
+            "price": 450000,
+            "desc": "Mawar merah merona siap menyampaikan pesan cinta mendalam di hari kasih sayang."
+        },
+        {
+            "id": "valentine_2",
+            "img": "img\/valen-2.png",
+            "name": "Pink Promises",
+            "price": 350000,
+            "desc": "Nuansa kemerahan memikat untuk menjanjikan cinta setia kepada dia yang paling spesial."
+        },
+        {
+            "id": "valentine_3",
+            "img": "img\/valen-3.png",
+            "name": "Sweetheart Bouquet",
+            "price": 320000,
+            "desc": "Buket nuansa super manis yang merepresentasikan kelembutan hati dan cinta tulus."
+        },
+        {
+            "id": "valentine_4",
+            "img": "img\/valen-4.jpg",
+            "name": "Deep Affection",
+            "price": 500000,
+            "desc": "Koleksi edisi valentine langka dengan tambahan detail manis cinta dan pesona eksklusif."
+        },
+        {
+            "id": "valentine_5",
+            "img": "img\/valen-5.jpg",
+            "name": "Love Blossoms",
+            "price": 270000,
+            "desc": "Buket memukau bertema valentine merah muda, bunga unggulan yang dihias sempurna."
+        }
+    ],
+    "Birthday": [
+        {
+            "id": "birthday_1",
+            "img": "img\/birthday-1.jpg",
+            "name": "Joyful Day",
+            "price": 220000,
+            "desc": "Bunga serba riang dengan rona oranye berjiwa muda untuk merayakan hari ulang tahun."
+        },
+        {
+            "id": "birthday_2",
+            "img": "img\/birthday-2.jpg",
+            "name": "Party Vibes",
+            "price": 180000,
+            "desc": "Suvenir mungil mekar penuh warna-warni demi memastikan senyum manis bersemi."
+        },
+        {
+            "id": "birthday_3",
+            "img": "img\/birthday-3.jpg",
+            "name": "Surprise Box",
+            "price": 300000,
+            "desc": "Kotak bunga kejutan tiada dua, dijamin membuat harinya berlalu sebagai memori paling indah."
+        },
+        {
+            "id": "birthday_4",
+            "img": "img\/birthday-4.jpg",
+            "name": "Happy Cheers",
+            "price": 250000,
+            "desc": "Buket bersemangat senada sebagai persembahan meriah dan termanis dari orang tersayang."
+        },
+        {
+            "id": "birthday_5",
+            "img": "img\/birthday-5.jpg",
+            "name": "Birthday Shine",
+            "price": 290000,
+            "desc": "Bunga cerah bermekaran segar merona, hadiah elok untuk membuat segalanya spesial istimewa."
+        }
+    ],
+    "Wedding": [
+        {
+            "id": "wedding_1",
+            "img": "img\/wedding-1.jpg",
+            "name": "Pure White Love",
+            "price": 600000,
+            "desc": "Buket pengantin khusus yang menyorot kemilau cahaya kasih dan kesucian murni abadi."
+        },
+        {
+            "id": "wedding_2",
+            "img": "img\/wedding-2.jpg",
+            "name": "Bridal Elegance",
+            "price": 850000,
+            "desc": "Desain megah kekinian berhias ornamen lili nan elegan serta helaian anggrek anggun memesona."
+        },
+        {
+            "id": "wedding_3",
+            "img": "img\/wedding-3.jpg",
+            "name": "Everlasting Vows",
+            "price": 700000,
+            "desc": "Tanda suci dan elegan akan sumpah janji terikat, yang begitu cantik terpegang penuh hangat."
+        },
+        {
+            "id": "wedding_4",
+            "img": "img\/wedding-4.jpg",
+            "name": "Wedding Bliss",
+            "price": 500000,
+            "desc": "Buket gembira penuh kemewahan di pelaminan perayaan pesta cinta tak terpisahkan selamanya."
+        },
+        {
+            "id": "wedding_5",
+            "img": "img\/service-4.jpg",
+            "name": "Sacred Grace",
+            "price": 550000,
+            "desc": "Corak rona suci memadukan kedamaian dan kesejukan rasa selagi iringan menuju altar."
+        }
+    ]
+}
